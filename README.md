@@ -15,5 +15,3 @@
    - Part-time job, extracurricular activities
 ## Run it with Streamlit
  -streamlit run dash_student.py
-
-تحرير
